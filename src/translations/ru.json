@@ -1,0 +1,21 @@
+{
+  "error-occured": "An error prevented the extension from working properly: ",
+  "version-update-message": "Теперь ты используешь ezpp! v{0}",
+  "changelog": "Изменения",
+  "accuracy": "Акуратность",
+  "combo": "Комбо",
+  "empty-fc": "(пусто = ФК)",
+  "misses": "Мисы",
+  "mod-hidden": "Hidden",
+  "mod-hardrock": "HardRock",
+  "mod-doubletime": "DoubleTime",
+  "mod-flashlight": "Flashlight",
+  "mod-nofail": "NoFail",
+  "mod-easy": "Easy",
+  "mod-halftime": "HalfTime",
+  "mod-spunout": "SpunOut",
+  "language": "Язык",
+  "settings": "Настройки",
+  "analytics": "Отправлять анонимно аналитическую информацию?",
+  "result": "Это весит {0}pp."
+}
